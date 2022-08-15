@@ -1,7 +1,7 @@
 let PGSdata = [
     {
     id:"AnimationWorldIDAT14820223008",
-    embed:"/storage/emulated/0/Data/AnimationWorld.jpg",
+    embed:"https://du-won9.github.io/data/AnimationWorld.jpg",
     name:"💛Animation World💛",
     home:"www.go.com",
     ID: function() {
